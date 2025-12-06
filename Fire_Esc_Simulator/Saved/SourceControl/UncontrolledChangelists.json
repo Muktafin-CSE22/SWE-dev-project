@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Input/IMC_Default.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Input/Actions/IA_Sprint.uasset"
 			]
 		}
 	]
