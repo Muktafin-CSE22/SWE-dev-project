@@ -11,7 +11,9 @@
 				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Crouch_Anim/Crouch.uasset",
 				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Crouch_Anim/CrouchWalk.uasset",
 				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Input/Actions/IA_Crouch.uasset",
-				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset"
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Blueprints/BP_FireDamage.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/HS/WBQ8JTTEE7A70G3LVK2JF6.uasset"
 			]
 		}
 	]
