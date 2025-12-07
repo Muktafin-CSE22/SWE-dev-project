@@ -7,7 +7,11 @@
 			"files": [
 				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Input/IMC_Default.uasset",
-				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Input/Actions/IA_Sprint.uasset"
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Input/Actions/IA_Sprint.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Crouch_Anim/Crouch.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Crouch_Anim/CrouchWalk.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Input/Actions/IA_Crouch.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset"
 			]
 		}
 	]
