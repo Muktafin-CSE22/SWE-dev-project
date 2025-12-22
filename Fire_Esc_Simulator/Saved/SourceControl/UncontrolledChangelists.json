@@ -24,8 +24,16 @@
 				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Fab/WATER__FIRE_EXTINGUISHER_LOW_POLY/theappxr_Estintore_acqua_NODRACO_standard/Textures/T_Metal_MetallicSmoothness.uasset",
 				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Fab/WATER__FIRE_EXTINGUISHER_LOW_POLY/theappxr_Estintore_acqua_NODRACO_standard/Materials/M_Fire_extinguisherWater.uasset",
 				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Fab/WATER__FIRE_EXTINGUISHER_LOW_POLY/theappxr_Estintore_acqua_NODRACO_standard/StaticMeshes/theappxr_Estintore_acqua_NODRACO_standard.uasset",
-				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Niagara/Foam_burst.uasset",
-				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Niagara/NS_Foam.uasset"
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Niagara/NS_Foam.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_C.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Blueprints/BP_Fire_Ext.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Fab/Fire_Extinguisher/fire_extinguisher/Textures/fire_extinguisher_texture_0.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Fab/Fire_Extinguisher/fire_extinguisher/Textures/fire_extinguisher_texture_1.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Fab/Fire_Extinguisher/fire_extinguisher/Textures/fire_extinguisher_texture_2.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Fab/Fire_Extinguisher/fire_extinguisher/Materials/material.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Fab/Fire_Extinguisher/fire_extinguisher/StaticMeshes/fire_extinguisher.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/FF/ESKGGCMV6C3ZCDQ899AH8L.uasset",
+				"D:/Unreal Projects/SWE_dev_project/Fire_Esc_Simulator/Content/Niagara/Foam_burst.uasset"
 			]
 		}
 	]
