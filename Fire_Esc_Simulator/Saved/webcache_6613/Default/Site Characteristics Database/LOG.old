@@ -1,3 +1,5 @@
-2025/12/22-11:22:46.917 3c2c Reusing MANIFEST D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2025/12/22-11:22:46.944 3c2c Recovering log #3
-2025/12/22-11:22:46.945 3c2c Reusing old log D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/01/03-09:41:03.908 55d8 Log #3: 9 ops saved to Table #4 OK
+2026/01/03-09:41:03.919 55d8 Archiving C:\Users\HP\Desktop\Ashraf's stuff. Dont touch\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/01/03-09:41:03.920 55d8 Table #4: 9 entries OK
+2026/01/03-09:41:03.924 55d8 Archiving C:\Users\HP\Desktop\Ashraf's stuff. Dont touch\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/01/03-09:41:03.937 55d8 **** Repaired leveldb C:\Users\HP\Desktop\Ashraf's stuff. Dont touch\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 360 bytes. Some data may have been lost. ****
