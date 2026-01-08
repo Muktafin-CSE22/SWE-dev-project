@@ -1,0 +1,83 @@
+############################
+# Unreal Engine Git Ignore #
+############################
+
+# ===== Core Unreal folders (MUST IGNORE) =====
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# ===== Plugins (generated content) =====
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# ===== Build artifacts =====
+Build/*
+
+# Allow Pak blacklist files
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+
+# Allow icons
+!Build/**/*.ico
+
+# ===== Logs & crash data =====
+*.log
+**/Logs/**
+**/Crashes/**
+
+# ===== Shader auto-generated files =====
+**/ShaderAutogen/**
+**/ShaderDebugInfo/**
+
+# ===== Web / CEF cache =====
+**/webcache**/
+**/webcache_**/
+
+# ===== Visual Studio / IDE =====
+.vs/
+.vscode/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.xcodeproj
+*.xcworkspace
+
+# ===== Compiled objects =====
+*.o
+*.obj
+*.lo
+*.slo
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+*.app
+
+# ===== Precompiled headers =====
+*.pch
+*.gch
+
+# ===== Temporary / OS files =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===== Unreal auto-generated map data =====
+*_BuiltData.uasset
+
+# ===== DO NOT ignore these (IMPORTANT) =====
+# Content/**
+# Config/**
+# Source/**
+# *.uproject
+
