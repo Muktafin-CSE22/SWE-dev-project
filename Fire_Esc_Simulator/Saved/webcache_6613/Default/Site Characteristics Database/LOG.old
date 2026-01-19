@@ -1,3 +1,4 @@
-2026/01/19-00:48:52.608 4a18 Reusing MANIFEST D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/01/19-00:48:52.622 4a18 Recovering log #3
-2026/01/19-00:48:52.623 4a18 Reusing old log D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/01/19-13:31:44.960 4750 Creating DB D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Site Characteristics Database since it was missing.
+2026/01/19-13:31:44.985 4750 Reusing MANIFEST D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/01/19-13:31:44.986 4750 Recovering log #3
+2026/01/19-13:31:44.986 4750 Reusing old log D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 

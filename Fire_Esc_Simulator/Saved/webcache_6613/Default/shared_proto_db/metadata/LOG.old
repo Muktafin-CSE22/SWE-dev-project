@@ -1,3 +1,4 @@
-2026/01/19-03:41:04.414 689c Reusing MANIFEST D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
-2026/01/19-03:41:04.414 689c Recovering log #3
-2026/01/19-03:41:04.414 689c Reusing old log D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
+2026/01/19-13:31:52.754 65f8 Creating DB D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
+2026/01/19-13:31:52.766 65f8 Reusing MANIFEST D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/01/19-13:31:52.767 65f8 Recovering log #3
+2026/01/19-13:31:52.767 65f8 Reusing old log D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
