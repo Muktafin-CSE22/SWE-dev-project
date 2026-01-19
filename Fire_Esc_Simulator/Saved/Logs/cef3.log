@@ -1,0 +1,15 @@
+[6984:10584:0119/123915.415:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6984:15644:0119/123915.578:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6984:19096:0119/123915.588:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6984:10584:0119/123915.670:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23560:23600:0119/123915.671:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6984:15644:0119/123920.581:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23560:23600:0119/123920.683:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23212:3872:0119/123922.469:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4D5C26FFF15FEF3AE0DD99A03994781D will be ignored
+[6984:10584:0119/123924.136:WARNING:frame_host_impl.cc(623)] virtual CefFrameHostImpl::SendProcessMessage sent to detached frame 6-9E0739E8F64246122CC72942053F4D52 (main) will be ignored
+[6984:15644:0119/123930.586:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23560:23600:0119/123930.695:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6984:15644:0119/123950.591:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23560:23600:0119/123950.705:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6984:10584:0119/124050.481:ERROR:device_event_log_impl.cc(196)] [12:40:50.430] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6984:10584:0119/125628.726:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
