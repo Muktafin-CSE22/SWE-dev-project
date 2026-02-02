@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2026/02/02-12:48:19.402 5460 Reusing MANIFEST D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
 2026/02/02-12:48:19.417 5460 Recovering log #22
 2026/02/02-12:48:19.419 5460 Reusing old log D:\Unreal Projects\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Local Storage\leveldb/000022.log 
+=======
+2026/01/19-08:20:47.440 1ebc Reusing MANIFEST C:\Users\HP\Desktop\Ashraf's stuff. Dont touch\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/19-08:20:47.449 1ebc Recovering log #3
+2026/01/19-08:20:47.455 1ebc Reusing old log C:\Users\HP\Desktop\Ashraf's stuff. Dont touch\SWE_dev_project\Fire_Esc_Simulator\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+>>>>>>> map_prot
