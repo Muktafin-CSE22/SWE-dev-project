@@ -1,0 +1,1 @@
+This is a simulator game. To open the project, we will need a unreal engine app. we have to open the .uproject file using unreal engine app. All the blueprints are available in content folder. The game will run using the play button of the editor.
